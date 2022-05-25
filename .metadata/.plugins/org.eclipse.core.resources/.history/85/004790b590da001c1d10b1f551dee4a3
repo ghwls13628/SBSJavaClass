@@ -1,0 +1,47 @@
+package Java2Class5;
+
+public class ConsoleOutput {
+
+	/*
+	//toString 메소드
+	class Box{
+		private String conts;
+		
+		Box(String cont){
+			this.cont;
+		}
+		public String toString() {
+			return conts; //문자열반환
+		}
+	
+	
+		public static void main(String[] args) {
+			StringBuilder stb = new StringBuilder("12");
+			stb.append(34);
+			System.out.println(stb.toString());
+			System.out.println(stb);
+
+			Box box = new Box("Camera");
+			System.out.println(box.toString());
+			System.out.println(box);
+		
+		//
+		
+		}
+	}
+	*/
+	
+	//문자열의 조합 printf 메소드
+	/*
+	printf는 문자열을 서식지정자로 표시한다
+	%d 10진수
+	%o 8진수
+	%x 16진수
+	%f 실수
+	%e e 표기법 기반의 실수
+	%g 출력의 대상에따라 %e 또는 %f출력
+	%s 문자열 출력
+	%c 문자 출력
+	*/
+	
+}

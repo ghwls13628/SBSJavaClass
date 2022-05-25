@@ -1,0 +1,18 @@
+package Java2Class5;
+
+public class Stringanswp {
+
+	
+	
+	
+	public static void main(String[] args) {
+	
+		String str1 = "990925-1012999";
+		String str2 = str1.substring(0,5);
+		System.out.println(str2);
+		
+		
+
+	}
+
+}
